@@ -36,4 +36,11 @@ This was created as **Project 1** during my **Data Science & Analytics Internshi
   - Pie Charts  
   - Line Graphs  
   - Tree Maps  
-- 🎨 Clean and visually engaging layout for easy interpretation  
+- 🎨 Clean and visually engaging layout for easy interpretation
+
+---
+
+## 📬 Contact  
+Feel free to connect or reach out for collaborations or feedback!  
+📧 **Amaan Khan** – [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+
